@@ -9,13 +9,12 @@
 * ### Example
 
 * * Original image
-![](data/img1.png?raw=true "" =200x200)
+<img src="https://github.com/rohinarora/helper_functions/blob/master/data/img1.png" width="300" height="300">
 
 * * Mask generated
-![](data/img2.png?raw=true "" =200x200)
-
+<img src="https://github.com/rohinarora/helper_functions/blob/master/data/img2.png" width="300" height="300">
 * * Mask superimposed with original image
-![](data/img3.png?raw=true "" =200x200)
+<img src="https://github.com/rohinarora/helper_functions/blob/master/data/img3.png" width="300" height="300">
 
 
 
