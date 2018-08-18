@@ -19,4 +19,4 @@
 
 
 
-* For practical implementation, check
+* For practical implementation, check [Airbus Ship Detection Challenge](https://github.com/rohinarora/Airbus_Ship_Detection_Challenge)
