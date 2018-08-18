@@ -6,14 +6,16 @@
 
 * Data here is sampled from Kaggle's [Airbus Ship Detection Challenge](https://www.kaggle.com/c/airbus-ship-detection)
 
+* ### Example
+
 * * Original image
-![](data/img1.png?raw=true "")
+![](data/img1.png?raw=true "" =200x200)
 
 * * Mask generated
-![](data/img2.png?raw=true "")
+![](data/img2.png?raw=true "" =200x200)
 
 * * Mask superimposed with original image
-![](data/img3.png?raw=true "")
+![](data/img3.png?raw=true "" =200x200)
 
 
 
